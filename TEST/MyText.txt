@@ -1,1 +1,2 @@
-My Test document
+My Test document. Changes at the end of the file
+this is a new line
