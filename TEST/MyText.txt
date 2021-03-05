@@ -1,3 +1,4 @@
 My Test document. Changes at the end of the file.
 This is a new line.
 This is additional line.
+This is bug fix line.
