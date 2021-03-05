@@ -1,2 +1,2 @@
-My Test document. Changes at the end of the file
-this is a new line
+My Test document. Changes at the end of the file.
+This is a new line.
